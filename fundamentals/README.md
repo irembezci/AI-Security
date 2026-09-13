@@ -82,7 +82,7 @@ This topic covers:
 - Response generation
 - Security implications of the prompt lifecycle
 
-**Read:** [Prompt Structure and Lifecycle](./prompt--lifecycle.md)
+**Read:** [Prompt Structure and Lifecycle](./prompt-lifecycle.md)
 
 
 ## Learning Path
@@ -129,6 +129,3 @@ Understanding how information flows through an LLM system makes it easier to ide
 This section is part of my broader **AI Security** learning and research repository, which focuses on the security of AI and LLM-based systems. The repository includes practical labs, attack techniques, security concepts and research-oriented notes covering the AI security landscape.
 
 **Main repository:** [AI Security](https://github.com/irembezci/AI-Security)
-
-```
-```
