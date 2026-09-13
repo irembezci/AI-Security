@@ -41,7 +41,7 @@ This topic covers:
 - Tool usage
 - How tool access changes the security boundary of an LLM application
 
-**Read:** [LLM Models, Weights and Evaluation](./llm-models-and-evaluation.md)
+**Read:** [LLM Models, Weights and Evaluation](./understanding-llms.md)
 
 
 ### Prompts and Context in LLMs
