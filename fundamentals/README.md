@@ -84,6 +84,40 @@ This topic covers:
 
 **Read:** [Prompt Structure and Lifecycle](./prompt-lifecycle.md)
 
+### Core Components of Modern AI
+
+Understand the key components that extend LLMs beyond basic text generation and enable modern AI applications to interact with external information, memory and tools.
+
+This topic covers:
+
+- Retrieval-Augmented Generation (RAG)
+- External knowledge sources
+- Memory
+- Tool usage
+- Model Context Protocol (MCP)
+- How these components extend LLM capabilities
+- How external components interact with LLMs
+- Security considerations introduced by external components
+
+**Read:** [Core Components of Modern AI](./core-components.md)
+
+### Inside an LLM
+
+Explore what happens inside an LLM when it receives a prompt and generates a response.
+
+This topic covers:
+
+- Tokens and tokenization
+- Context windows
+- Inference
+- Autoregressive generation
+- Temperature
+- Hallucinations
+- How LLMs process and generate information
+- How these mechanisms relate to LLM security
+
+**Read:** [Inside an LLM](./inside-an-llm.md)
+
 
 ## Learning Path
 
@@ -96,12 +130,16 @@ Large Language Models
     ↓
 LLM Models, Weights & Evaluation
     ↓
+Core Components of Modern AI
+    ↓
+Inside an LLM
+    ↓
 Prompts & Context
     ↓
 Prompt Structure & Lifecycle
     ↓
 LLM Security
-````
+```
 
 These fundamentals provide the foundation for understanding more advanced topics such as:
 
